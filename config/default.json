@@ -1,0 +1,13 @@
+{
+  "customer": {
+    "username"	: "myusername",
+    "password"	: "mypassword",
+    "token"		: "mmytoken"
+  },
+  "gateway": {
+    "protocol"	: "https",
+    "timeout"	: "60000",
+    "testing"	: true,
+    "hostname": "emerchantpay.net"
+  }
+}
